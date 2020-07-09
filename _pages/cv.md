@@ -33,7 +33,7 @@ Skills
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Sub-skill 2.33333333
 * Skill 3
 
 Publications
